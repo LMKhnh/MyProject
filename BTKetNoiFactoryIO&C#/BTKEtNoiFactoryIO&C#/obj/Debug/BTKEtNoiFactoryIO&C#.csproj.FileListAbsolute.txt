@@ -1,0 +1,16 @@
+E:\Khanh\BaiHoc\K222\DL&DKBMT\BT\BTKetNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\bin\Debug\BTKEtNoiFactoryIO&C#.exe.config
+E:\Khanh\BaiHoc\K222\DL&DKBMT\BT\BTKetNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\bin\Debug\BTKEtNoiFactoryIO&C#.exe
+E:\Khanh\BaiHoc\K222\DL&DKBMT\BT\BTKetNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\bin\Debug\BTKEtNoiFactoryIO&C#.pdb
+E:\Khanh\BaiHoc\K222\DL&DKBMT\BT\BTKetNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\bin\Debug\S7.Net.dll
+E:\Khanh\BaiHoc\K222\DL&DKBMT\BT\BTKetNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\bin\Debug\S7.Net.xml
+E:\Khanh\BaiHoc\K222\DL&DKBMT\BT\BTKetNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\obj\Debug\BTKEtNoiFactoryIO&C#.csproj.AssemblyReference.cache
+E:\Khanh\BaiHoc\K222\DL&DKBMT\BT\BTKetNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\obj\Debug\BTKEtNoiFactoryIO&C#.csproj.SuggestedBindingRedirects.cache
+E:\Khanh\BaiHoc\K222\DL&DKBMT\BT\BTKetNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\obj\Debug\BTKEtNoiFactoryIO_C_.Form1.resources
+E:\Khanh\BaiHoc\K222\DL&DKBMT\BT\BTKetNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\obj\Debug\BTKEtNoiFactoryIO_C_.Properties.Resources.resources
+E:\Khanh\BaiHoc\K222\DL&DKBMT\BT\BTKetNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\obj\Debug\BTKEtNoiFactoryIO&C#.csproj.GenerateResource.cache
+E:\Khanh\BaiHoc\K222\DL&DKBMT\BT\BTKetNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\obj\Debug\BTKEtNoiFactoryIO&C#.csproj.CoreCompileInputs.cache
+E:\Khanh\BaiHoc\K222\DL&DKBMT\BT\BTKetNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\obj\Debug\BTKEtNoiFactoryIO&C#.csproj.CopyComplete
+E:\Khanh\BaiHoc\K222\DL&DKBMT\BT\BTKetNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\obj\Debug\BTKEtNoiFactoryIO&C#.exe
+E:\Khanh\BaiHoc\K222\DL&DKBMT\BT\BTKetNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\obj\Debug\BTKEtNoiFactoryIO&C#.pdb
+E:\Khanh\BaiHoc\K222\DL&DKBMT\BT\BTKetNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\Khanh\BaiHoc\K222\DL&DKBMT\BT\BTKetNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\BTKEtNoiFactoryIO&C#\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
